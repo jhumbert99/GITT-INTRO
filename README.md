@@ -1,1 +1,1 @@
-# GITT-INTRO
+# GIT-INTRO
